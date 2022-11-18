@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=JINJU%20CHOI&fontSize=50&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=jeeeunu&fontSize=50&animation=fadeIn) -->
   
 ## **_Skills_**
 
