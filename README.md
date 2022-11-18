@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=left display:flex; gap:10px >
+<div align=left>
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=jeeeunu&fontSize=50&animation=fadeIn) -->
   
